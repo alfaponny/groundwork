@@ -2,8 +2,8 @@
   "ContactForm": {
     "heading": "Testa Groundwork",
     "name": { "label": "Namn", "placeholder": "Proto Typ" },
-    "email": { "label": "Email", "placeholder": "prototyp@prototyp.se" },
-    "company": { "label": "Företag", "placeholder": "Prototyp AB" },
+      "email": { "label": "Email", "placeholder": "namn@företag.se" },
+    "company": { "label": "Företag", "placeholder": "Ditt Företag" },
     "submit": { "label": "Skicka" },
     "submitError": "Något gick fel. Försök igen senare.",
     "chatLoading": "Laddar chatten...",

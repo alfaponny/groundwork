@@ -53,8 +53,8 @@ const mockGaps = {
 
 const mockContact = {
   name: 'Jane Doe',
-  company: 'Prototyp',
-  email: 'jane.doe@prototyp.se',
+  company: 'Alfaponny Studio',
+  email: 'jane.doe@alfaponny.se',
 };
 
 export async function GET(req: NextRequest) {

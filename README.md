@@ -4,16 +4,6 @@
 
 A ChatGPT-native lead-generation app built on the [OpenAI Apps SDK](https://platform.openai.com/docs/apps) (MCP). A prospect answers five short discovery questions in an embedded chat widget and, in return, gets a genuinely useful deliverable: an AI-generated **product spec**, a **competitor/market analysis** (via live web search), a **gap analysis**, and a rough **budget range** — packaged as a branded **PDF** they can download immediately. Email delivery is optional.
 
-### What it's good for
-
-Most lead-gen tools make you hand over your contact details *before* you get anything. This flips that around: the visitor gets the full result — a real product spec, competitor analysis, and a budget estimate — without signing up or filling in a form. They only share their name, company, and email at the very end, and only if they want the PDF sent to them.
-
-For an agency, that means:
-
-- **Better leads.** By the time someone gives you their contact details, you already know their product idea, their market, and what they expect to spend. The conversation starts warm.
-- **Privacy built in.** Contact details are never sent to the AI — it only ever sees an anonymous ID, never a name or email. That keeps personal data out of the language model and makes GDPR compliance simpler.
-- **Flexible to deploy.** Drop the chat widget onto a marketing site, or publish it as a native app in the ChatGPT App Store.
-
 > **Note:** This is a sanitized portfolio version of a prototype I built solo in 2026 at a digital agency to demonstrate the OpenAI Apps SDK / MCP flow. Credentials, internal endpoints, brand assets, and deployment-specific details have been removed or replaced with neutral placeholders (the demo brand "Alfaponny Studio"). The code reflects my own implementation work.
 
 ## Table of Contents

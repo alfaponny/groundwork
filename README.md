@@ -52,8 +52,13 @@ The app is **bilingual (Swedish / English)** — all UI copy, prompts, and PDF t
 | Styling | Tailwind CSS |
 | Deployment | Docker |
 
+git remote add origin https://github.com/alfaponny/groundwork.git
+git branch -M main
+git push -u origin main
+
 ## Project Structure
 
+```
 src/
 ├── app/
 │   ├── [locale]/                 # Localized pages (sv / en)
@@ -76,6 +81,7 @@ src/
 │   ├── session.ts                # Session read/write
 │   └── budget.ts                 # Budget range estimation
 └── messages/                     # sv.json / en.json UI copy
+```
 
 
 ## Configuration

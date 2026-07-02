@@ -1,0 +1,81 @@
+{
+  "ContactForm": {
+    "heading": "Try Groundwork",
+    "name": { "label": "Name", "placeholder": "Proto AB" },
+    "email": { "label": "Email", "placeholder": "name@company.com" },
+    "company": { "label": "Company", "placeholder": "Your Company" },
+    "submit": { "label": "Submit" },
+    "submitError": "Something went wrong. Please try again later.",
+    "chatLoading": "Loading chat...",
+    "complexity": {
+      "label": "How complex is your idea?",
+      "simple": "Simple",
+      "medium": "Medium",
+      "advanced": "Advanced"
+    },
+    "errors": {
+      "name": {
+        "tooShort": "Required field. Name must be at least 2 characters.",
+        "tooLong": "Name can contain a maximum of 100 characters."
+      },
+      "email": {
+        "invalid": "Please enter an email in the format: email@example.com",
+        "tooShort": "Email is too short.",
+        "tooLong": "Email can contain a maximum of 100 characters."
+      },
+      "company": {
+        "tooShort": "Required field. Company must be at least 2 characters.",
+        "tooLong": "Company can contain a maximum of 100 characters."
+      }
+    }
+  },
+
+  "Pdf": {
+    "briefing": {
+      "title": "Product briefing",
+      "problem": "The problem",
+      "users": "Target users"
+    },
+    "competitors": {
+      "title": "Competitors",
+      "strengths": "Strengths",
+      "weaknesses": "Weaknesses",
+      "name": "Competitor",
+      "summary": "Summary"
+    },
+    "gap": {
+      "title": "Market gap",
+      "opportunities": "Opportunities",
+      "refinements": "Spec refinements"
+    },
+    "spec": {
+      "title": "In short",
+      "features": "MVP features",
+      "estimate": "Time & budget",
+      "estimateValue": "Approx. {hours} hours · {tier} complexity",
+      "tier": {
+        "simple": "simple",
+        "medium": "medium",
+        "advanced": "advanced"
+      }
+    },
+    "budget": {
+      "tierHeader": "Complexity",
+      "hoursHeader": "Estimated hours",
+      "yourEstimate": "Your estimate"
+    },
+    "nextStep": {
+      "title": "Next step",
+      "body": "Want to take this idea further? We'd love to talk it through and turn this outline into a concrete plan.",
+      "contact": "Get in touch at {email}."
+    }
+  },
+  "Email": {
+    "subject": "Your product specification: {title}",
+    "greeting": "Hi {name},",
+    "intro": "Thanks for trying Groundwork. Here is a link to download the product brief we generated together:",
+    "ctaText": "Download your product specification",
+    "expiryNote": "The link is valid until {date}.",
+    "signoff": "We'll follow up at {email} within two business days to dig into the idea together."
+  }
+}

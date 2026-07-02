@@ -1,0 +1,80 @@
+{
+  "ContactForm": {
+    "heading": "Testa Groundwork",
+    "name": { "label": "Namn", "placeholder": "Proto Typ" },
+    "email": { "label": "Email", "placeholder": "prototyp@prototyp.se" },
+    "company": { "label": "Företag", "placeholder": "Prototyp AB" },
+    "submit": { "label": "Skicka" },
+    "submitError": "Något gick fel. Försök igen senare.",
+    "chatLoading": "Laddar chatten...",
+    "complexity": {
+      "label": "Hur komplex är din idé?",
+      "simple": "Enkel",
+      "medium": "Medium",
+      "advanced": "Avancerad"
+    },
+    "errors": {
+      "name": {
+        "tooShort": "Obligatoriskt fält. Namn måste vara minst 2 tecken.",
+        "tooLong": "Namn får innehålla max 100 tecken."
+      },
+      "email": {
+        "invalid": "Ange e-post enligt formatet: namn@example.com",
+        "tooShort": "E-post är för kort.",
+        "tooLong": "E-post får innehålla max 100 tecken."
+      },
+      "company": {
+        "tooShort": "Obligatoriskt fält. Företag måste vara minst 2 tecken.",
+        "tooLong": "Företag får innehålla max 100 tecken."
+      }
+    }
+  },
+  "Pdf": {
+    "briefing": {
+      "title": "Produktbrief",
+      "problem": "Problemet",
+      "users": "Målgrupp"
+    },
+    "competitors": {
+      "title": "Konkurrenter",
+      "strengths": "Styrkor",
+      "weaknesses": "Svagheter",
+      "name": "Konkurrent",
+      "summary": "Sammanfattning"
+    },
+    "gap": {
+      "title": "Marknadsgap",
+      "opportunities": "Möjligheter",
+      "refinements": "Förbättringsförslag"
+    },
+    "spec": {
+      "title": "I korthet",
+      "features": "MVP-funktioner",
+      "estimate": "Tidsåtgång",
+      "estimateValue": "Ca {hours} timmar · {tier} komplexitet",
+      "tier": {
+        "simple": "enkel",
+        "medium": "medel",
+        "advanced": "avancerad"
+      }
+    },
+    "budget": {
+      "tierHeader": "Komplexitet",
+      "hoursHeader": "Uppskattade timmar",
+      "yourEstimate": "Din uppskattning"
+    },
+    "nextStep": {
+      "title": "Nästa steg",
+      "body": "Vill du ta idén vidare? Vi pratar gärna igenom den och förvandlar skissen till en konkret plan.",
+      "contact": "Hör av dig på {email}."
+    }
+  },
+  "Email": {
+    "subject": "Din produktspecifikation: {title}",
+    "greeting": "Hej {name},",
+    "intro": "Tack för att du testade Groundwork. Här är en länk för att ladda ner produktbriefen vi skapade tillsammans:",
+    "ctaText": "Ladda ner din produktspecifikation",
+    "expiryNote": "Länken är giltig till {date}.",
+    "signoff": "Vi hör av oss till {email} inom två arbetsdagar för att bolla idén tillsammans."
+  }
+}

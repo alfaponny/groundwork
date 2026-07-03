@@ -2,7 +2,7 @@
 
 **Next.js · TypeScript · MCP · Docker · License: MIT**
 
-A ChatGPT-native lead-generation app built on the [OpenAI Apps SDK](https://platform.openai.com/docs/apps) (MCP). A prospect answers five short discovery questions in an embedded chat widget and, in return, gets a genuinely useful deliverable: an AI-generated **product spec**, a **competitor/market analysis** (via live web search), a **gap analysis**, and a rough **budget range** — packaged as a branded **PDF** they can download immediately. Email delivery is optional.
+A ChatGPT-native lead-generation app built on the [OpenAI Apps SDK]([https://developers.openai.com/api/docs/guides/agents]) (MCP). A prospect answers five short discovery questions in an embedded chat widget and, in return, gets a genuinely useful deliverable: an AI-generated **product spec**, a **competitor/market analysis** (via live web search), a **gap analysis**, and a rough **budget range** — packaged as a branded **PDF** they can download immediately. Email delivery is optional.
 
 > **Note:** This is a sanitized portfolio version of a prototype I built solo in 2026 at a digital agency to demonstrate the OpenAI Apps SDK / MCP flow. Credentials, internal endpoints, brand assets, and deployment-specific details have been removed or replaced with neutral placeholders (the demo brand "Alfaponny Studio"). The code reflects my own implementation work.
 

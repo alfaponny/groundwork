@@ -1,4 +1,4 @@
-# Groundwork — AI Lead-Gen for Agencies
+# Groundwork — AI client finder 
 
 **Next.js · TypeScript · MCP · Docker · License: MIT**
 
